@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaalucca@gmail.com
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning big data
+- 🌱 I’m currently learning big data, tensor flow
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me this is e-address lucaalucca@gmail.com
 - 😄 Pronouns: ...
